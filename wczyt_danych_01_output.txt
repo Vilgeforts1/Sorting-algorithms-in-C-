@@ -1,0 +1,23 @@
+-------------------------------------------------------------
+Wynik sortowania pliku: 	wczyt_danych_01_output.txt
+Ilosc rekordow: 		20
+-------------------------------------------------------------
+Sort: 		 ShellSort
+StableSort: 	 MergeSort
+-------------------------------------------------------------
+Czas dla algorytmu Sort: 	 0.009ms
+Czas dla algorytmu StableSort: 	 0.015ms
+-------------------------------------------------------------
+Wynik sortowania za pomoca Sort:
+{ KEY: -84	 ID: 0goe } { KEY: -65	 ID: 62x9 } { KEY: -63	 ID: bifs } { KEY: -56	 ID: 6uku } { KEY: -48	 ID: h7qm } { KEY: -44	 ID: ox7b } { KEY: -31	 ID: ts49 } 
+{ KEY: -23	 ID: buxp } { KEY: -22	 ID: 7biv } { KEY: -17	 ID: vdsg } { KEY: -15	 ID: tzee } { KEY: -11	 ID: vi8k } { KEY:   7	 ID: 76mw } 
+{ KEY:  18	 ID: 3z80 } { KEY:  20	 ID: yn0a } { KEY:  46	 ID: 3k94 } { KEY:  66	 ID: s7s2 } { KEY:  69	 ID: fxcw } { KEY:  79	 ID: lo8w } 
+{ KEY:  98	 ID: b7oq } 
+-------------------------------------------------------------
+Wynik sortowania za pomoca StableSort:
+{ KEY: -84	 ID: 0goe } { KEY: -65	 ID: 62x9 } { KEY: -63	 ID: bifs } { KEY: -56	 ID: 6uku } { KEY: -48	 ID: h7qm } { KEY: -44	 ID: ox7b } { KEY: -31	 ID: ts49 } 
+{ KEY: -23	 ID: buxp } { KEY: -22	 ID: 7biv } { KEY: -17	 ID: vdsg } { KEY: -15	 ID: tzee } { KEY: -11	 ID: vi8k } { KEY:   7	 ID: 76mw } 
+{ KEY:  18	 ID: 3z80 } { KEY:  20	 ID: yn0a } { KEY:  46	 ID: 3k94 } { KEY:  66	 ID: s7s2 } { KEY:  69	 ID: fxcw } { KEY:  79	 ID: lo8w } 
+{ KEY:  98	 ID: b7oq } 
+-------------------------------------------------------------
+Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz 2.59 GHz,  DDR4 16.0GB 
